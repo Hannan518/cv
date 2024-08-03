@@ -1,3 +1,3 @@
 # cv
 
-My ugly looking pure html website.
+First time messing with html codes 
